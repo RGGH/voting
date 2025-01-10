@@ -1,0 +1,7 @@
+# Rust's output directory
+target
+venv/
+
+# Local settings
+.soroban
+.stellar
